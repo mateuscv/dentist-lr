@@ -358,7 +358,7 @@ nav {
 /* Contact Section */
 .contact {
     padding: 100px 0;
-    background: #E8D5B7;
+    background: #f3ecda;
     color: var(--dark);
 }
 
@@ -439,7 +439,7 @@ nav {
 .contact-icon {
     width: 60px;
     height: 60px;
-    background: #F5F0E8;
+    background: #cfb07c;
     border-radius: 50%;
     display: flex;
     align-items: center;
