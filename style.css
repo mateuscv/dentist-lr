@@ -532,6 +532,13 @@ footer p {
 
     .hero-image img {
         max-width: 300px;
+        box-shadow: 
+            0 20px 40px rgba(26, 26, 26, 0.1),
+            -15px -15px 0 0 var(--gold);
+    }
+
+    .hero-image::before {
+        display: none;
     }
 
     .about-content {
